@@ -1,4 +1,4 @@
-These cleaned CSV files contain USDA retail pricing data for tomatoes across different U.S. regions from 2022 to 2024. Each file includes weekly records and is separated by region.
+These cleaned CSV files contain USDA retail pricing data for tomatoes across different U.S. regions from 2022 to 2024 (01/07/2022 - 12/20/2024). Each file includes weekly records and is separated by region.
 
 Field descriptions for the tomato commodity CSVs include:
 - **class**: Always listed as "Vegetables"
