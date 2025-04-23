@@ -37,7 +37,7 @@ I filtered and cleaned the dataset to:
 Note: I excluded Alaska, Hawaii, and national datasets to keep the focus on clearly defined regional behavior.
 
 # USDA Reporting & Methodology
-The USDA releases weekly retail reports for fresh fruits and vegetables. These reports include advertised pricesgathered from:
+The USDA releases weekly retail reports for fresh fruits and vegetables. These reports include advertised prices gathered from:
 * Printed grocery store flyers
 * Newspaper inserts
 * Online store ads
