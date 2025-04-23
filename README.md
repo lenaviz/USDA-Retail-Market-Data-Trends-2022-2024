@@ -45,7 +45,8 @@ The USDA releases weekly retail reports for fresh fruits and vegetables. These r
 
 The USDA tracks promotions from both large national chains (e.g., Walmart, Kroger, Safeway) and regional or independent supermarkets, depending on who publishes ads that week.
 
-I have seperated the datasets by regions. In each dataset for a partiuclar commidity, you will notice that each row in the dataset reflects **one product commodity** in **one region** for **one week**, and includes the following price fields:
+The datasets are organized by commodity type, with each commodity stored in its own folder on GitHub. Within each folder, you’ll find six regional datasets: one for each selected U.S. region.
+In every dataset, each row represents a single product variety in one region, reported for one week. These rows include the following pricing fields:
 
 # Price Fields Explained:
 * Min Price (price_min): The lowest advertised price for a specific product in the region during the week
@@ -53,7 +54,7 @@ I have seperated the datasets by regions. In each dataset for a partiuclar commi
 * Weighted Average Price (current_wtd_avg_price): An average price that is weighted by how often each price appeared in store ads. This gives a realistic view of what most consumers saw.
 * Ad Count (current_ad_count): The number of ads (across print and digital) that featured the item that week. It does not represent the number of stores directly, but rather the frequency of promotion.
 
-### Example row from one of the datasets:
+### Here’s a sample row from the Southwest dataset within the Tomato commodity folder: 
 
 | Date       | Region    | Class      | Commodity | Variety                 | Organic | Unit    | Environment | Min Price | Max Price | Ad Count | Wtd Avg Price |
 |------------|-----------|------------|-----------|--------------------------|---------|---------|-------------|-----------|-----------|----------|----------------|
